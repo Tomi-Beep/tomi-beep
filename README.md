@@ -20,12 +20,10 @@ I am passionate about applying my knowledge to real-world challenges. My goal is
 
 ## 📫 Let's Connect  
 
-Feel free to reach out via email:  
-- **[tomibog23@gmail.com](mailto:tomibog23@gmail.com)**  
-- **[tomi.bogoeski@best-eu.org](mailto:tomi.bogoeski@best-eu.org)**  
+- 📧 Email: **[tomibog23@gmail.com](mailto:tomibog23@gmail.com)** | **[tomi.bogoeski@best-eu.org](mailto:tomi.bogoeski@best-eu.org)**  
+- 🔗 LinkedIn: **[Tomi Bogoeski](https://www.linkedin.com/in/tomi-bogoeski-72869023a/)**  
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep)](https://github.com/anuraghazra/github-readme-stats)
-
