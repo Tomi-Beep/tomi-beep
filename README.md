@@ -25,5 +25,5 @@ I am passionate about applying my knowledge to real-world challenges. My goal is
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep&layout=pie&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
