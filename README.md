@@ -14,7 +14,7 @@ I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science an
 
 ## 🎯 Goals  
 
-I am passionate about continuously improving my skills and applying my knowledge to real-world challenges. My goal is to bridge the gap between theoretical understanding and practical application, and I’m eager to contribute to exciting projects while learning from others.  
+I am passionate about applying my knowledge to real-world challenges. My goal is to bridge the gap between theoretical understanding and practical application, and I’m eager to contribute to exciting projects while learning from others.  
 
 ---
 
@@ -25,7 +25,6 @@ Feel free to reach out via email:
 - **[tomi.bogoeski@best-eu.org](mailto:tomi.bogoeski@best-eu.org)**  
 
 ---
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-beep)](https://github.com/anuraghazra/github-readme-stats)
