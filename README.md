@@ -1,4 +1,5 @@
 # Hi there, I'm Tomi! 👋
+Yes, that's me on the profile pic, do not take the picture seriously, it's supposed to be quirky and different.
 
 I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science and Engineering (FCSE)**, Ss. Cyril and Methodius University in Skopje. Currently in my **4th semester**, I'm enthusiastic about learning and growing in the field of technology.  
 
@@ -6,15 +7,17 @@ I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science an
 
 ## 🔧 Skills  
 
-- **C++**: Mastered structural programming and object-oriented programming.  
-- **Java**: Built a solid foundation in algorithms and data structures.  
-- **Python**: Currently focusing on artificial intelligence to expand my expertise.  
+- **C++**: Mastered structural programming and object-oriented programming - god knows I lost my mind with understanding pointers perfectly.  
+- **Java**: Built a solid foundation in algorithms and data structures - yet somehow managed to answer LIFO == Queue, which lost our team first place in a café quiz.  
+- **Python**: Currently focusing on artificial intelligence to expand my expertise.
 
 ---
 
 ## 🎯 Goals  
 
-I am passionate about applying my knowledge to real-world challenges. My goal is to bridge the gap between theoretical understanding and practical application, and I’m eager to contribute to exciting projects while learning from others.  
+My goal is to bridge the gap between theoretical understanding and practical application, and I’m eager to contribute to exciting projects while learning from others. 
+
+I am literally bursting with creative ideas, but turning them to reality? That’s where my lack of practical experience comes in. However! I've recently dived into learning **Kotlin** and I’m gearing up to create my **very first actually useful app**.
 
 ---
 
