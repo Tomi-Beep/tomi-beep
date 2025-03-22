@@ -8,7 +8,7 @@ I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science an
 ## 🔧 Skills  
 
 - **C++**: Mastered structural programming and object-oriented programming - god knows I lost my mind with understanding pointers perfectly.  
-- **Java**: Built a solid foundation in algorithms and data structures - yet somehow managed to answer LIFO == Queue, which lost our team first place in a café quiz.  
+- **Java**: Built a solid foundation in algorithms and data structures - yet somehow managed to answer LIFO == Queue, which lost our team first place in a café quiz (the adrenalin got to me okay?).  
 - **Python**: Currently focusing on artificial intelligence to expand my expertise.
 
 ---
