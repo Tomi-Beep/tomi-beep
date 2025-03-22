@@ -1,7 +1,7 @@
 # Hi there, I'm Tomi! 👋
 I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science and Engineering (FCSE)**, Ss. Cyril and Methodius University in Skopje. Currently in my **4th semester**, I'm enthusiastic about learning and growing in the field of technology.  
 
-Yes, that's me on the profile pic, do not take the picture seriously, it's supposed to be quirky and different. It's the moment I fell in love with my friend's mother's sunglasses.
+Yes, that's me on the profile pic, do not take the picture seriously, it's SUPPOSED to be quirky and different. It's the moment I fell in love with my friend's mother's sunglasses.
 
 ---
 
