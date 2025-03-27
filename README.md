@@ -15,7 +15,7 @@ I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science an
 
 My goal is to bridge the gap between theoretical understanding and practical application, and I’m eager to contribute to exciting projects while learning from others. 
 
-I am bursting with creative ideas, but turning them to reality? That’s where my lack of practical experience comes in. However! I've recently dived into learning **Kotlin** and I’m gearing up to create my **very first actually useful app**.
+I've recently dived into learning **Kotlin** and I’m gearing up to create my **very first actually useful app**.
 
 ---
 
