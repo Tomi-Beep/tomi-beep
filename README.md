@@ -21,7 +21,7 @@ I am literally bursting with creative ideas, but turning them to reality? That�
 
 ## 📫 Let's Connect  
 
-- 📧 Email: **[tomibog23@gmail.com](mailto:tomibog23@gmail.com)** | **[tomi.bogoeski@best-eu.org](mailto:tomi.bogoeski@best-eu.org)**  
+- 📧 Email: **[tomi.bogoeski@students.finki.ukim.mk.com](mailto:tomi.bogoeski@students.finki.ukim.mk)** | **[tomi.bogoeski@best-eu.org](mailto:tomi.bogoeski@best-eu.org)**  
 - 🔗 LinkedIn: **[Tomi Bogoeski](https://www.linkedin.com/in/tomi-bogoeski-72869023a/)**  
 
 ---
