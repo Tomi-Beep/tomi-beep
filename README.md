@@ -5,8 +5,8 @@ I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science an
 
 ## 🔧 Skills  
 
-- **C++**: Mastered structural programming and object-oriented programming - god knows I lost my mind with understanding pointers perfectly.  
-- **Java**: Built a solid foundation in algorithms and data structures - yet somehow managed to answer LIFO == Queue, which lost our team first place in a café quiz (the adrenalin got to me okay?).  
+- **C++**: Mastered structural programming and object-oriented programming.
+- **Java**: Built a solid foundation in algorithms and data structures.
 - **Python**: Currently focusing on artificial intelligence to expand my expertise.
 
 ---
@@ -15,7 +15,7 @@ I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science an
 
 My goal is to bridge the gap between theoretical understanding and practical application, and I’m eager to contribute to exciting projects while learning from others. 
 
-I am literally bursting with creative ideas, but turning them to reality? That’s where my lack of practical experience comes in. However! I've recently dived into learning **Kotlin** and I’m gearing up to create my **very first actually useful app**.
+I am bursting with creative ideas, but turning them to reality? That’s where my lack of practical experience comes in. However! I've recently dived into learning **Kotlin** and I’m gearing up to create my **very first actually useful app**.
 
 ---
 
