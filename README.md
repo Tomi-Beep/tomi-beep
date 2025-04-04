@@ -1,4 +1,4 @@
-# Hi there, I'm Tomi! 👋
+# Hi there, I'm Tomi! (and this is definitely not an AI prompt) 👋
 I'm a **2nd-year undergraduate student** at the **Faculty of Computer Science and Engineering (FCSE)**, Ss. Cyril and Methodius University in Skopje. Currently in my **4th semester**, I'm enthusiastic about learning and growing in the field of technology.  
 
 ---
