@@ -14,7 +14,3 @@ I’m a final-year computer science student at **FINKI** and a machine learning 
 - [Verifying LLM-generated solvers](https://github.com/Tomi-Beep/llm-hamiltonian-tsp-verification) — Co-authored a CIIT 2026 paper using exact algorithms to check LLM-generated solvers for Hamiltonian Cycle and Traveling Salesman.
 - [Evaluation of LLM with KG on macedonian media](https://github.com/Tomi-Beep/llm-kg-macedonian-media-eval) — Compared question-only, exact-title search, and graph lookup on 18 Macedonian questions. Graph lookup found the complete evidence for all six two-hop questions.
 - [GitHub Explorer](https://github.com/Tomi-Beep/github-explorer) — Built a Spring Boot application that searches GitHub’s REST API and saves repositories to a personal watchlist.
-
-## GitHub stats, just for fun
-
-<img width="46%" alt="Most-used languages across Tomi-Beep’s public repositories" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tomi-Beep&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" />
