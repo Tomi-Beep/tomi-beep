@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="372" viewBox="0 0 1120 372" role="img" aria-labelledby="title desc">
-<title id="title">Beep boop, it’s Tomi!</title><desc id="desc">A retro pixel robot beside a network and a signal trace. LLM evaluation, agents, and retrieval.</desc>
+<title id="title">Beep boop, it’s Tomi!</title><desc id="desc">A retro pixel robot beside a network and a signal trace. Large language models, AI agents, and machine learning.</desc>
 <defs><linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#141228"/><stop offset="1" stop-color="#151A31"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B6AAFA" stroke-opacity=".085"/></pattern><clipPath id="frame"><rect x="1" y="1" width="1118" height="370" rx="22"/></clipPath></defs>
 <g clip-path="url(#frame)"><rect width="1120" height="372" fill="url(#bg)"/><rect width="1120" height="372" fill="url(#grid)"/>
 <path d="M42 46h91m-91 0v25m1036 256h-91m91 0v-25" fill="none" stroke="#B4A6FF" stroke-width="3"/>
 <path d="M42 325h28m8 0h9m8 0h9M1020 46h9m8 0h9m8 0h24" stroke="#65E9D0" stroke-width="3"/>
 <g font-family="system-ui,Segoe UI,sans-serif" font-weight="800" font-size="88" letter-spacing="-4" fill="#F8F4FF"><text x="59" y="151">Beep boop,</text><text x="59" y="239">it’s Tomi!</text></g>
-<text x="64" y="289" fill="#BDB7E4" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="600" letter-spacing=".4">LLM EVALUATION / AGENTS / RETRIEVAL</text>
+<text x="64" y="289" fill="#BDB7E4" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="600" letter-spacing=".4">LLMs / AGENTS / MACHINE LEARNING</text>
 <g fill="none" stroke="#9485F2" stroke-width="3" stroke-linejoin="bevel"><path d="M605 183l52-41 59 29 58-54"/><path opacity=".7" d="M590 241h25l20-13 24-22h19l26 27h19l27-28h20l25 25h17"/><path opacity=".35" d="M571 274h217m-191 13h51m12 0h115"/></g>
 <g fill="#75EAD4" stroke="#A99BFF" stroke-width="3"><rect x="600" y="178" width="10" height="10"/><rect x="652" y="137" width="10" height="10"/><rect x="711" y="166" width="10" height="10"/><rect x="769" y="112" width="10" height="10"/></g>
 <g shape-rendering="crispEdges">
