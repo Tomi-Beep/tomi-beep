@@ -2,8 +2,7 @@
 
 I’m a final-year computer science student at **FINKI** and a machine learning research intern at the **Macedonian Academy of Sciences and Arts**. I build benchmarks to see when LLMs get an answer right, whether the evidence supports it, and where the system fails. In general, I also enjoy testing the capabilities of SATA LLMs and the agentic work that they do, even in my day-to-day usage.
 
-[LinkedIn](https://www.linkedin.com/in/tomi-bogoeski/) · [CIIT 2026 paper](https://github.com/Tomi-Beep/llm-hamiltonian-tsp-verification/blob/main/paper.pdf)
-
+[LinkedIn](https://www.linkedin.com/in/tomi-bogoeski/)
 ## Selected work
 
 - [LLM agentic verification for macedonian claims](https://github.com/Tomi-Beep/llm-agents-macedonian-claim-verification) — Evaluated an investigator–reviewer workflow on 18 Macedonian census claims. Correct verdicts with supporting explanations increased from 7/18 to 16/18 after review and revision.
