@@ -17,5 +17,4 @@ I’m a final-year computer science student at **FINKI** and a machine learning 
 
 ## GitHub stats
 
-<img width="49%" alt="GitHub activity statistics for Tomi-Beep" src="https://github-readme-stats-fast.vercel.app/api?username=Tomi-Beep&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
 <img width="46%" alt="Most-used languages across Tomi-Beep’s public repositories" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tomi-Beep&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" />
