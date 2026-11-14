@@ -1,6 +1,6 @@
 ![Beep boop, it’s Tomi! Large language models, AI agents, and machine learning.](./profile-banner.svg)
 
-![Animated typing: Testing LLMs, benchmarking agents, and exploring knowledge graphs](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2700&pause=1150&color=A78BFA&width=535&height=38&lines=Testing+LLMs;Benchmarking+agents;Exploring+knowledge+graphs)
+![Animated typing: Testing LLMs, benchmarking agents, and exploring Macedonian knowledge](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2700&pause=1150&color=A78BFA&width=535&height=38&lines=Testing+LLMs;Benchmarking+agents;Exploring+Macedonian+knowledge)
 
 I’m a final-year computer science student at **FINKI** and a machine learning research intern at the **Macedonian Academy of Sciences and Arts**. I build benchmarks to see when LLMs get an answer right, whether the evidence supports it, and where the system fails. In general, I also enjoy testing the capabilities of SATA LLMs and the agentic work that they do, even in my day-to-day usage.
 
