@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="302" viewBox="0 0 1120 302" role="img" aria-labelledby="title desc">
+<title id="title">LLM benchmark results</title><desc id="desc">Claim verification with evidence: 7 of 18 initial drafts, 16 of 18 after review and revision. Film-music question answering: 6 of 18 with the question alone, 11 of 18 with exact-title search, and 16 of 18 with graph lookup.</desc>
+<rect x="1" y="1" width="1118" height="300" rx="20" fill="#151629" stroke="#3C3959" stroke-width="2"/>
+<path d="M560 30v244" stroke="#3C3959" stroke-width="2"/>
+<g font-family="system-ui,Segoe UI,sans-serif">
+<g fill="#F5F0FF" font-weight="700" font-size="29"><text x="30" y="52">LLM agent review</text><text x="589" y="52">Knowledge-graph retrieval</text></g>
+<g fill="#C8C3D9" font-size="19"><text x="30" y="82">Correct verdict with supporting evidence</text><text x="589" y="82">Overall task score, including abstention</text></g>
+<g fill="#EAE6F6" font-size="20"><text x="30" y="126">Initial draft</text><text x="30" y="191">After review and revision</text><text x="589" y="126">Question only</text><text x="589" y="191">Exact-title search</text><text x="589" y="256">Graph lookup</text></g>
+</g>
+<g stroke="#393A54" stroke-width="10" stroke-linecap="round"><path d="M34 145h492m-492 65h492M593 145h492m-492 65h492m-492 65h492"/></g>
+<g stroke-width="10" stroke-linecap="round"><path d="M34 145h191.33" stroke="#948ABF"/><path d="M34 210h437.33" stroke="#BAACFF"/><path d="M593 145h164m-164 65h300.67" stroke="#779FA4"/><path d="M593 275h437.33" stroke="#7EEDD8"/></g>
+<g font-family="monospace" font-size="22" font-weight="700" text-anchor="end"><text x="530" y="126" fill="#D8D0F2">7/18</text><text x="530" y="191" fill="#D8D0F2">16/18</text><text x="1090" y="126" fill="#AEF3E7">6/18</text><text x="1090" y="191" fill="#AEF3E7">11/18</text><text x="1090" y="256" fill="#AEF3E7">16/18</text></g>
+</svg>
