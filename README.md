@@ -1,2 +1,17 @@
-- 📧 Email: **[tomi.bogoeski@students.finki.ukim.mk.com](mailto:tomi.bogoeski@students.finki.ukim.mk)** | **[tomi.bogoeski@best-eu.org](mailto:tomi.bogoeski@best-eu.org)**  
-- 🔗 LinkedIn: **[Tomi Bogoeski](https://www.linkedin.com/in/tomi-bogoeski-72869023a/)**  
+# Beep boop, it's Tomi!
+
+I’m a final-year computer science student at FINKI and a machine learning
+research intern at the Macedonian Academy of Sciences and Arts. I build
+benchmarks to see when LLMs get an answer right, whether the evidence
+supports it, and where the system fails. 
+
+In general, I enjoy testing the capabilities of SATA LLMs and the agentic work that they do, even in my day to day usage.
+
+## Selected work
+
+- [LLM agents for macedonian claim verification](https://github.com/Tomi-Beep/llm-agents-macedonian-claim-verification) — Evaluated an investigator–reviewer workflow on 18 Macedonian census claims. Correct verdicts with supporting explanations increased from 7/18 to 16/18 after review and revision.
+- [Verifying LLM-generated solvers](https://github.com/Tomi-Beep/llm-hamiltonian-tsp-verification) — Co-authored a CIIT 2026 paper using exact algorithms to check LLM-generated solvers for Hamiltonian Cycle and Traveling Salesman.
+- [LLM Knowledge-graph macedonian retrieval benchmark](https://github.com/Tomi-Beep/llm-kg-macedonian-media-eval) — Compared question-only, exact-title search, and graph lookup on 18 Macedonian questions. Graph lookup found the complete evidence for all six two-hop questions.
+- [GitHub Explorer](https://github.com/Tomi-Beep/github-explorer) — Built a Spring Boot application that searches GitHub’s REST API and saves repositories to a personal watchlist.
+
+[LinkedIn](https://www.linkedin.com/in/tomi-bogoeski/)
