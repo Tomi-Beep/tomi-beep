@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="372" viewBox="0 0 1120 372" role="img" aria-labelledby="title desc">
+<title id="title">Beep boop, it’s Tomi!</title><desc id="desc">A retro pixel robot beside a network and a signal trace. LLM evaluation, agents, and retrieval.</desc>
+<defs><linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#141228"/><stop offset="1" stop-color="#151A31"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B6AAFA" stroke-opacity=".085"/></pattern><clipPath id="frame"><rect x="1" y="1" width="1118" height="370" rx="22"/></clipPath></defs>
+<g clip-path="url(#frame)"><rect width="1120" height="372" fill="url(#bg)"/><rect width="1120" height="372" fill="url(#grid)"/>
+<path d="M42 46h91m-91 0v25m1036 256h-91m91 0v-25" fill="none" stroke="#B4A6FF" stroke-width="3"/>
+<path d="M42 325h28m8 0h9m8 0h9M1020 46h9m8 0h9m8 0h24" stroke="#65E9D0" stroke-width="3"/>
+<g font-family="system-ui,Segoe UI,sans-serif" font-weight="800" font-size="88" letter-spacing="-4" fill="#F8F4FF"><text x="59" y="151">Beep boop,</text><text x="59" y="239">it’s Tomi!</text></g>
+<text x="64" y="289" fill="#BDB7E4" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="600" letter-spacing=".4">LLM EVALUATION / AGENTS / RETRIEVAL</text>
+<g fill="none" stroke="#9485F2" stroke-width="3" stroke-linejoin="bevel"><path d="M605 183l52-41 59 29 58-54"/><path opacity=".7" d="M590 241h25l20-13 24-22h19l26 27h19l27-28h20l25 25h17"/><path opacity=".35" d="M571 274h217m-191 13h51m12 0h115"/></g>
+<g fill="#75EAD4" stroke="#A99BFF" stroke-width="3"><rect x="600" y="178" width="10" height="10"/><rect x="652" y="137" width="10" height="10"/><rect x="711" y="166" width="10" height="10"/><rect x="769" y="112" width="10" height="10"/></g>
+<g shape-rendering="crispEdges">
+<path fill="#252445" d="M788 281h263v17h-16v14H806v-14h-18z"/><path fill="#7565CE" d="M780 269h279v13H780z"/><path fill="#B7ADFA" d="M780 269h279v5H780z"/><path fill="#4F4495" d="M828 309h93v8h-93zm139 0h52v8h-52z"/><path fill="#6CEFD3" d="M894 292h10v6h-10zm16 0h10v6h-10zm16 0h10v6h-10z"/>
+<path fill="#5A4AA4" d="M865 221h130v11h13v29h-18v8H868v-8h-18v-29h15z"/><path fill="#B5A5FC" d="M873 227h112v12h13v22h-22v8h-95v-8h-23v-22h15z"/><path fill="#E2D9FF" d="M882 227h90v11h-90zm-16 14h15v13h-15zm104 0h20v13h-20z"/><path fill="#332B64" d="M910 238h34v22h-34z"/><path fill="#72EED5" d="M918 245h18v8h-18z"/>
+<path fill="#6758B4" d="M899 106h79v11h21v11h13v18h11v20h11v40h-15v12h-19v12H866v-10h-19v-13h-14v-43h13v-21h12v-15h16v-11h25z"/><path fill="#CEC2FF" d="M892 109h80v10h24v14h13v18h10v44h-10v15h-14v11H872v-11h-15v-13h-10v-44h12v-18h13v-15h20z"/><path fill="#EDE8FF" d="M896 115h70v9h-70zm-23 14h25v9h-25zm-14 15h20v9h-20z"/><path d="M884 145h91v8h17v12h10v25h-10v12h-17v8h-90v-8h-17v-12h-9v-23h9v-13h16z" fill="#1A1834"/><path fill="#393567" d="M884 149h91v6h-91zm-14 12h13v7h-13z"/><path fill="#6CF1D2" d="M895 170h14v19h-14zm51 0h14v19h-14z"/>
+<path fill="#8677DB" d="M825 165h19v37h-19zm195 0h19v37h-19z"/><path fill="#E7DDFF" d="M828 168h9v29h-9zm200 0h8v29h-8z"/>
+<path fill="#BFB1FF" d="M950 109h-11V91h8V81h8V67h10v18h-8v11h-7z"/><path fill="#64EDCA" d="M951 55h21v21h-21z"/><path fill="#B4FFEC" d="M953 57h15v5h-15z"/>
+</g></g><rect x="1" y="1" width="1118" height="370" rx="22" fill="none" stroke="#555074" stroke-width="2"/>
+</svg>
