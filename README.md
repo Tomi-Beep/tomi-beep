@@ -9,9 +9,9 @@ In general, I enjoy testing the capabilities of SATA LLMs and the agentic work t
 
 ## Selected work
 
-- [LLM agents for macedonian claim verification](https://github.com/Tomi-Beep/llm-agents-macedonian-claim-verification) — Evaluated an investigator–reviewer workflow on 18 Macedonian census claims. Correct verdicts with supporting explanations increased from 7/18 to 16/18 after review and revision.
+- [LLM agentic verification for macedonian claims](https://github.com/Tomi-Beep/llm-agents-macedonian-claim-verification) — Evaluated an investigator–reviewer workflow on 18 Macedonian census claims. Correct verdicts with supporting explanations increased from 7/18 to 16/18 after review and revision.
 - [Verifying LLM-generated solvers](https://github.com/Tomi-Beep/llm-hamiltonian-tsp-verification) — Co-authored a CIIT 2026 paper using exact algorithms to check LLM-generated solvers for Hamiltonian Cycle and Traveling Salesman.
-- [LLM Knowledge-graph macedonian retrieval benchmark](https://github.com/Tomi-Beep/llm-kg-macedonian-media-eval) — Compared question-only, exact-title search, and graph lookup on 18 Macedonian questions. Graph lookup found the complete evidence for all six two-hop questions.
+- [Evaluation of LLM with KG on macedonian media](https://github.com/Tomi-Beep/llm-kg-macedonian-media-eval) — Compared question-only, exact-title search, and graph lookup on 18 Macedonian questions. Graph lookup found the complete evidence for all six two-hop questions.
 - [GitHub Explorer](https://github.com/Tomi-Beep/github-explorer) — Built a Spring Boot application that searches GitHub’s REST API and saves repositories to a personal watchlist.
 
 [LinkedIn](https://www.linkedin.com/in/tomi-bogoeski/)
